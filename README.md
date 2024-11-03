@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sabirmeskin
 - 👀 I’m interested in PHP
 - 🌱 I’m currently learning advanced js
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on LARAVEL LIVEWIRE ...
 - 📫 How to reach me sabirmeskin@gmail.com
 
 
